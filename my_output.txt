@@ -1,0 +1,4 @@
+add_sections 'added': 0 (sec_size: 0)
+setshstrndx: 30
+Hello, World!
+./check.sh: line 6: 16390 Segmentation fault      ./added
